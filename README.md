@@ -33,8 +33,8 @@ For the past 5 years, I’ve been immersed in the fascinating world of data. My 
 I’m always excited to collaborate, learn, and contribute. Whether it’s discussing data challenges, sharing insights, or exploring new opportunities, feel free to reach out. Let’s make data work for us!
 
 **Navneet Shubham**
-- LinkedIn: [Navneet Shubham](LinkedIn_Profile_Link)
-- Email: [navneetshubham@example.com](mailto:navneetshubham@example.com)
+- LinkedIn: [Navneet Shubham]([LinkedIn_Profile_Link](https://www.linkedin.com/in/navneet1994/)])
+- Email: [navneetshubham97@gmail.com](mailto:navneetshubham@example.com)
 - Phone: +91 8697097926
 
 ---
