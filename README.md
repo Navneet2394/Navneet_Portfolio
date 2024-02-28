@@ -2,6 +2,10 @@
 
 Hello! I’m Navneet Shubham, a passionate Data Analyst with a background in Electronics and Communication Engineering. I graduated in June 2015 from Annamali Uiversity, Chidambaram, Tamil Nadu. Coming from a middle-class family, I’ve always believed in the power of ambition and courage to overcome challenges.
 
+<br>
+This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
+<br>
+
 ## My Journey in Data
 
 For the past 5 years, I’ve been immersed in the fascinating world of data. My journey has been a blend of learning, exploration, and practical application. Here are some key aspects of my expertise:
