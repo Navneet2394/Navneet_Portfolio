@@ -65,7 +65,7 @@ For the past 8 years, I’ve been immersed in the fascinating world of data. My 
 
 - 2022: Business Analytics. Awarded by iNeuron.
 - 2021: SQL and Relational Databases. Awarded by Simplilearn.
-- 2021: Google Data Analytics. Awarded by Coursera(https://coursera.org/share/b113f9ebb61cdc9b62dd50c1474ee9dd)
+- 2021: [Google Data Analytics Certificate](https://coursera.org/share/b113f9ebb61cdc9b62dd50c1474ee9dd)
 - 2021: Programming for Everybody. Awarded by Coursera.
 
 ### Awards and Achievements
