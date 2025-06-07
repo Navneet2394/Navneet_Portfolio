@@ -15,7 +15,7 @@ For the past 8 years, I’ve been immersed in the fascinating world of data. My 
 - **SQL:** Proficient in writing complex queries to extract, transform, and analyze data from large relational databases. Skilled in using **JOINs, CTEs, subqueries, window functions (RANK, ROW_NUMBER, etc.), aggregate functions,** case statements, and data cleansing techniques. Experienced in optimizing query performance, creating stored procedures, and working with MYSQL.
 - **Data Modeling:** Skilled in designing efficient and scalable data models to support accurate reporting and analytics. Proficient in creating **star and snowflake schemas, establishing primary and foreign key relationships, and ensuring data normalization and integrity**. Experienced in translating business requirements into logical and physical data models to enable optimized Power BI, Looker Studio, and SQL-based reporting solutions.
 - **Data Visualization:** Proficient in **Power BI, Looker Studio, and Tableau for building interactive dashboards.** Skilled in using visuals like bar charts, line graphs, KPIs, **box plots (to detect outliers), and scatter plots (for trend and correlation analysis)** to present clear, actionable insights.
-- **ETL Tools:** Worked with SSIS, Talend, and Alteryx for data extraction, transformation, and loading.
+- **ETL Tools:** Worked with SSIS, and Alteryx for data extraction, transformation, and loading.
 
 ## Project Highlights:
 
