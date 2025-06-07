@@ -77,10 +77,6 @@ For the past 8 years, I’ve been immersed in the fascinating world of data. My 
 ### 🐍 Programming & Automation
 - Python (Pandas, NumPy, Matplotlib), Scripting for EDA & Reporting Automation
 
-### 🧠 Soft Skills
-- Problem-Solving, Business Communication, Data-Driven Decision Making, Stakeholder Collaboration, Attention to Detail
-
-
 ## Miscellaneous Experience
 
 ### Certifications
