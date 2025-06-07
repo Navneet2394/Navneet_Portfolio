@@ -21,7 +21,7 @@ For the past 5 years, I’ve been immersed in the fascinating world of data. My 
 ## Project Highlights:
 
 - **Exploratory Data Analysis (EDA):** I love diving into datasets, uncovering patterns, and drawing meaningful insights.
-- **Machine Learning Models:** Built predictive models using regression, classification, and clustering techniques.
+- **Statistical Analysis:** Performed in-depth data analysis using statistical methods such as mean, median, mode, standard deviation, skewness, and outlier detection to uncover data patterns and ensure data quality.
 - **Business Insights:** Collaborated with stakeholders to provide actionable recommendations based on data analysis.
 - **Data Visualization Dashboards:** Creating interactive dashboards that tell a story from raw data is my forte.
 
