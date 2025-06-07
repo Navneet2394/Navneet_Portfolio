@@ -54,10 +54,32 @@ For the past 8 years, I’ve been immersed in the fascinating world of data. My 
 - Secondary School (State Board), R.S.Y College, Aurangabad, BR
 - Higher Secondary (CBSE), Millia Convent English School, Purnia, BR
 
-## Skills
+## 🔹 Technical Skill Summary
 
-- **Reporting Tools:** Microsoft Excel, Google Sheets, PowerPoint
-- **Data Analysis Tools:** SQL, MySQL, SSIS, PowerBI, DataStudio, Tableau, Alteryx, Data Modeling, EDA.
+### 📊 Reporting & Presentation Tools
+- Microsoft Excel (Advanced), Google Sheets, Microsoft PowerPoint
+
+### 🧮 Data Analysis & BI Tools
+- SQL, MySQL, SSIS, Power BI, Looker Studio (Google Data Studio), Tableau, Alteryx
+
+### 📈 Data Visualization & Reporting
+- Interactive Dashboards, KPI Reports, Charts, Heatmaps, Box Plot, Scatter Plot, Pareto Analysis, Time-Series Trends
+
+### 📐 Data Modeling & Transformation
+- Data Modeling (Star/Snowflake Schema), ETL Workflows, Joins & Merges, Data Cleaning, Power Query, Power Pivot
+
+### 📊 Statistical Analysis
+- Descriptive Statistics (Mean, Median, Mode, Standard Deviation), Outlier Detection (Z-score/IQR), Skewness, Trend & Variance Analysis
+
+### ⚙️ Excel Expertise
+- Pivot Tables, VLOOKUP/XLOOKUP, INDEX-MATCH, Power Query, Conditional Formatting, Advanced Charting, Data Validation, What-If Analysis, Macros/VBA
+
+### 🐍 Programming & Automation
+- Python (Pandas, NumPy, Matplotlib), Scripting for EDA & Reporting Automation
+
+### 🧠 Soft Skills
+- Problem-Solving, Business Communication, Data-Driven Decision Making, Stakeholder Collaboration, Attention to Detail
+
 
 ## Miscellaneous Experience
 
