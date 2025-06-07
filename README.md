@@ -6,7 +6,7 @@ Hello! I’m Navneet Shubham, a passionate Data Analyst with a background in Ele
 
 ## My Journey in Data
 
-For the past 5 years, I’ve been immersed in the fascinating world of data. My journey has been a blend of learning, exploration, and practical application. Here are some key aspects of my expertise:
+For the past 8 years, I’ve been immersed in the fascinating world of data. My journey has been a blend of learning, exploration, and practical application. Here are some key aspects of my expertise:
 
 ## Technical Skills:
 
