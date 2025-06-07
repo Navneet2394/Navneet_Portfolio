@@ -64,9 +64,10 @@ For the past 8 years, I’ve been immersed in the fascinating world of data. My 
 ### Certifications
 
 - 2022: Business Analytics. Awarded by iNeuron.
+- 2022: [Google Data Analytics Capstone: Complete a Case Study](https://coursera.org/verify/J2TTWXQVLQAG)
 - 2021: SQL and Relational Databases. Awarded by Simplilearn.
 - 2021: [Google Data Analytics Certificate](https://coursera.org/share/b113f9ebb61cdc9b62dd50c1474ee9dd)
-- 2021: Programming for Everybody. Awarded by Coursera.
+- 2021: [Programming for Everybody](https://www.coursera.org/account/accomplishments/verify/7PXDSRZVSKY3)
 
 ### Awards and Achievements
 
